@@ -1,0 +1,22 @@
+.pimtu{
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+   align-items: flex-start;
+    flex-direction: row-reverse;
+ 
+    height: 50vh;
+    display: flex;
+}
+.vermelho{
+    background-color: darkred;
+    width: 50px;
+}
+.rosa{
+    background-color: pink;
+    width: 50px;
+}
+.verde{
+    background-color: lightgreen;
+    width: 50px;
+
+}
